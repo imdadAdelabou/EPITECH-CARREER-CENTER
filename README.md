@@ -1,0 +1,2 @@
+# EPITECH-CARREER-CENTER
+EPITECH JUNIOR ENTREPRISE  idriss.bengeloune@epitech.eu Mini-project  Welcome to our Junior Enterprise recruitment test. In this project, you will develop a web application for EPITECH career center. You will have to present a list of jobs, along with their details to the students. You are free to use whatever technology suits you. You should return the project to us on Git. Good luck and be creative !
