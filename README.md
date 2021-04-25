@@ -2,7 +2,7 @@
 
 #PROJET DEPLOIYER ET DISPONIBLE SUR LE LIEN CI-DESSOUS:
 
-[https://epitechcarreercenter.herokuapp.com/]
+[https://epitechcarreercenter.herokuapp.com/] => Version Ordinateur uniquement :)
 
 ## Project setup
 ```
