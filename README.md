@@ -1,6 +1,6 @@
 # epitech-carreer-center
 
-PROJET <span style='color:green'>DEPLOIYER</span> ET DISPONIBLE SUR LE LIEN CI-DESSOUS:
+#PROJET **DEPLOIYER** ET DISPONIBLE SUR LE LIEN CI-DESSOUS:
 
 [https://epitechcarreercenter.herokuapp.com/] => Version Ordinateur uniquement :)
 
